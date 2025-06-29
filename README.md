@@ -69,7 +69,7 @@ The app (app.py) is built using **Streamlit**:
 
 1. Clone the repository
 https://github.com/Anuchikkamath/Relationship_Predictor.git
-cd  Relationship_Predictor
+cd Relationship_Predictor
 
 3. Install required packages  
 pip install -r requirements.txt
