@@ -68,7 +68,7 @@ The app (app.py) is built using **Streamlit**:
 ## ✅ How to Run
 
 1. Clone the repository  
-git clone https://github.com/<your-username>/peram-mahesh.git  
+git clone https://github.com/<your-username>/peram-mahesh.git
 cd peram-mahesh  
 
 2. Install required packages  
