@@ -52,7 +52,7 @@ Developed an **Artificial Neural Network (ANN)**:
 ---
 
 ## 💾 5. Model Saving
-- Trained model saved as: model (1).h5 using **Keras**
+- Trained model saved as: best_model.keras using **Keras**
 - **ModelCheckpoint** used to retain the best performing weights
 
 ---
