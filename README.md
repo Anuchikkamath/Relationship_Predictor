@@ -89,11 +89,12 @@ streamlit run app.py
 
 ## 📁 Repository Structure
 
-├── Code_File.py # Streamlit app for predictions
-├── best_model.keras # Trained Keras model
-├── Assessment - Form Responses.csv # Survey response dataset
-├── requirements.txt # Python dependencies
-└── README.md # Project overview
+peram-mahesh/
+├── Code_File.py                         # Streamlit app for predictions  
+├── best_model.keras                   # Trained Keras model  
+├── Assessment - Form Responses.csv  # Survey response dataset  
+├── requirements.txt              # Python dependencies  
+└── README.md                     # Project overview
 ## 👥 Author
 
 **Developed by:** Anusha Chikkamath
