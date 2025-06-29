@@ -67,14 +67,14 @@ The app (app.py) is built using **Streamlit**:
 
 ## ✅ How to Run
 
-1. Clone the repository  
-git clone https://github.com/<your-username>/peram-mahesh.git
-cd peram-mahesh  
+1. Clone the repository
+https://github.com/Anuchikkamath/Relationship_Predictor.git
+cd  Relationship_Predictor
 
-2. Install required packages  
+3. Install required packages  
 pip install -r requirements.txt
 
-3. Start the Streamlit app  
+4. Start the Streamlit app  
 streamlit run app.py
 
 ---
