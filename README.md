@@ -89,8 +89,8 @@ streamlit run app.py
 
 ## 📁 Repository Structure
 
-├── app.py # Streamlit app for predictions
-├── model (1).h5 # Trained Keras model
+├── Code_File.py # Streamlit app for predictions
+├── best_model.keras # Trained Keras model
 ├── Assessment - Form Responses.csv # Survey response dataset
 ├── requirements.txt # Python dependencies
 └── README.md # Project overview
